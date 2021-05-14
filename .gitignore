@@ -1,0 +1,12 @@
+/target/
+db.ini
+*.class
+*.jar
+*.war
+/.settings/
+/bin/
+.classpath
+main.js
+/src/main/resources/static/
+hibernate.cfg.xml
+.factorypath
